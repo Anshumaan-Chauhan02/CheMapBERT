@@ -4,9 +4,9 @@
   </p>
 </h2>
 
-# Tasks
-  * Model Domain Training 
-  * Model Task Specific Training 
+## Tasks
+  * Model Domain Training :white_check_mark: 
+  * Model Task Specific Training :white_check_mark: (Partially)
   * External Knowledge Graph Acquisition (involves query processing)
   * Conversion of RDFs to different formats
   * Incorporation of additional knowledge into Model
