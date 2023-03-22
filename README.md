@@ -15,12 +15,12 @@
 ## Datasets
 ### Domain
   * Amazon Product Dataset
-      https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
+        https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
 ### Fine tuning
   * Cosmetic Product
-      https://www.kaggle.com/datasets/kingabzpro/cosmetics-datasets
+        https://www.kaggle.com/datasets/kingabzpro/cosmetics-datasets
   * Sephora Dataset
-      https://www.kaggle.com/datasets/raghadalharbi/all-products-available-on-sephora-website
+        https://www.kaggle.com/datasets/raghadalharbi/all-products-available-on-sephora-website
     
 ## Suggestions:
 * Try to use other Faster models (less parameters) - such as DistilBERT and Larger Models - such as RoBERTa
