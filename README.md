@@ -12,6 +12,11 @@
   * Incorporation of additional knowledge into Model
   * Experimentations
 
+## Notes
+  * ❗Getting low accuracy after task specific training 
+      * Either change the number of epochs of training and testing
+      * Try to change the parameters such as Optimizer and Loss function
+      
 ## Datasets
 ### Domain
   * Amazon Product Dataset
