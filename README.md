@@ -14,6 +14,7 @@
 
 ## Notes
   * ❗Getting low accuracy after task specific training 
+      * Maybe too many labels, and relatively less data - combine some labels into 1 category
       * Either change the number of epochs of training and testing
       * Try to change the parameters such as Optimizer and Loss function
       
