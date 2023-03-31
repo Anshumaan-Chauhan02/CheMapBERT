@@ -19,10 +19,10 @@
       * Try to change the parameters such as Optimizer and Loss function
       
 ## Datasets
-### Domain
+### Domain Specific (Pre-training)
   * Amazon Product Dataset
         https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
-### Fine tuning 
+### Task Specific (Fine tuning) 
   * Cosmetic Product
         https://www.kaggle.com/datasets/kingabzpro/cosmetics-datasets
   * Sephora Dataset 
