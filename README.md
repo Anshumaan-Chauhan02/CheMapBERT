@@ -28,6 +28,6 @@
   * Sephora Dataset 
         https://www.kaggle.com/datasets/raghadalharbi/all-products-available-on-sephora-website
     
-## Suggestions:
+## Future Works:
 * Try to use other Faster models (less parameters) - such as DistilBERT and Larger Models - such as RoBERTa
 * Introduce more datasets in fine-tuning
