@@ -15,6 +15,7 @@
 ## Notes
   * ❗Getting low accuracy after task specific training 
       * Maybe too many labels, and relatively less data - combine some labels into 1 category :yellow_circle:
+  * DBPedia -  Will use the SPARQLWrapper library to query DBPedia programmatically without the need to download it to our local system.
       
 ## Datasets
 ### Domain Specific (Pre-training)
