@@ -14,9 +14,9 @@
 
 ## Notes
   * ❗Getting low accuracy after task specific training 
-      * Maybe too many labels, and relatively less data - combine some labels into 1 category
-      * Either change the number of epochs of training and testing
-      * Try to change the parameters such as Optimizer and Loss function
+      * Maybe too many labels, and relatively less data - combine some labels into 1 category :yellow_circle:
+      * Either change the number of epochs of training and testing :white_check_mark: 
+      * Try to change the Architecture of the Bert Model :white_check_mark: 
       
 ## Datasets
 ### Domain Specific (Pre-training)
