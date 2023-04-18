@@ -7,7 +7,8 @@
 ## Tasks
   * Model Domain Training :white_check_mark: 
   * Model Task Specific Training :white_check_mark:
-  * External Knowledge Graph Acquisition/Query processing :yellow_circle: 
+  * External Knowledge Graph Acquisition/Query processing :yellow_circle: - Information Acquisition
+  * Query to filter information into various types :yellow_circle:
   * Conversion of RDFs to different formats 🔴 - Information retreival is not in the form of Knowledge Graphs now, so we won't be adding this part.  
   * Incorporation of additional knowledge into Model
   * Experimentations
