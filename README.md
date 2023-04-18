@@ -13,7 +13,8 @@
   * Experimentations
 
 ## Notes
-  * DBPedia -  Will use the SPARQLWrapper library to query DBPedia programmatically without the need to download it to our local system. As DBPedia is not efficient for the filtering out useful information regarding a label that could help the model. Therefore we will be shifting to scaring the data off the net using Beautiful Soup. Incidecoder will be used for this. 
+  * Will use the SPARQLWrapper library to query DBPedia programmatically without the need to download it to our local system. ❎
+  * As DBPedia is not efficient for the filtering out useful information regarding a label that could help the model. Therefore we will be shifting to scaring the data off the net using Beautiful Soup. Incidecoder will be used for this. 
       
 ## Datasets
 ### Domain Specific (Pre-training)
