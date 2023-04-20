@@ -10,7 +10,7 @@
   * External Knowledge Graph Acquisition/Query processing :white_check_mark: - Information Acquisition
   * Query to filter information into various types :yellow_circle:
   * Conversion of RDFs to different formats 🔴 - Information retreival is not in the form of Knowledge Graphs now, so we won't be adding this part.  
-  * Incorporation of additional knowledge into Model
+  * Incorporation of additional knowledge into Model :yellow_circle:
   * Experimentations
 
 ## Notes
