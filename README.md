@@ -11,7 +11,7 @@
   * Query to filter information into various types :yellow_circle:
   * Conversion of RDFs to different formats 🔴 - Information retreival is not in the form of Knowledge Graphs now, so we won't be adding this part.  
   * Incorporation of additional knowledge into Model :yellow_circle:
-  * Experimentations
+  * Experimentations :yellow_circle:
 
 ## Notes
   * Will use the SPARQLWrapper library to query DBPedia programmatically without the need to download it to our local system. ❎
