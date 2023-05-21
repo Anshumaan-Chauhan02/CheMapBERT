@@ -30,3 +30,7 @@
 ## Future Works:
 * Try to use other Faster models (less parameters) - such as DistilBERT and Larger Models - such as RoBERTa
 * Introduce more datasets in fine-tuning
+
+<br><br><br>
+![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaan-Chauhan02&layout=compact)
