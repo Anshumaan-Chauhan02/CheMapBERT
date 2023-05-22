@@ -35,12 +35,12 @@ In this project, we present a novel approach for ingredient matching in cosmetic
 
 ## Datasets
 ### Domain Specific (Pre-training)
-  * Amazon Product Dataset
+  * Amazon Product Dataset :
         https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
 ### Task Specific (Fine tuning) 
-  * Cosmetic Product
+  * Cosmetic Product :
         https://www.kaggle.com/datasets/kingabzpro/cosmetics-datasets
-  * Sephora Dataset 
+  * Sephora Dataset :
         https://www.kaggle.com/datasets/raghadalharbi/all-products-available-on-sephora-website
 ## Files
 * BERT_Domain_Training.ipynb: Pretraining  of BERT using MLM
