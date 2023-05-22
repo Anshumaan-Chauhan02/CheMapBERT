@@ -1,6 +1,6 @@
 <h2>
   <p align='center'>
-    Project591
+    CheMapBERT
   </p>
 </h2>
 
