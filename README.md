@@ -12,9 +12,8 @@ In this project, we present a novel approach for ingredient matching in cosmetic
   * Model Domain Training :white_check_mark: 
   * Model Task Specific Training :white_check_mark:
   * External Knowledge Graph Acquisition/Query processing :white_check_mark: - Information Acquisition
-  * Query to filter information into various types :yellow_circle:
   * Conversion of RDFs to different formats 🔴 - Information retreival is not in the form of Knowledge Graphs now, so we won't be adding this part.  
-  * Incorporation of additional knowledge into Model :yellow_circle:
+  * Incorporation of additional knowledge into Model :white_check_mark:
   * Experimentations :yellow_circle:
 
 ## Notes
@@ -33,6 +32,7 @@ In this project, we present a novel approach for ingredient matching in cosmetic
     
 ## Future Works:
 * Try to use other Faster models (less parameters) - such as DistilBERT and Larger Models - such as RoBERTa
+* Query to filter information into various types 
 * Introduce more datasets in fine-tuning
 
 <br><br><br>
