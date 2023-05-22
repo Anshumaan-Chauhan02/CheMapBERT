@@ -62,6 +62,10 @@ In this project, we present a novel approach for ingredient matching in cosmetic
 * External_Knowledge_Retrieval.ipynb:
 * Label_Merging_591.xlsx:
 
+## How to Run
+1)
+2)
+
 ## Future Works:
 * Try to use other Faster models (less parameters) - such as DistilBERT and Larger Models - such as RoBERTa
 * Query to filter information into various types: Filter down the information provided through external knowledge by using FAISS or ElasticSearch
