@@ -16,18 +16,6 @@ In this project, we present a novel approach for ingredient matching in cosmetic
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 <br>
-
-## Tasks
-  * Model Domain Training :white_check_mark: 
-  * Model Task Specific Training :white_check_mark:
-  * External Knowledge Graph Acquisition/Query processing :white_check_mark: - Information Acquisition
-  * Conversion of RDFs to different formats 🔴 - Information retreival is not in the form of Knowledge Graphs now, so we won't be adding this part.  
-  * Incorporation of additional knowledge into Model :white_check_mark:
-  * Experimentations :yellow_circle:
-
-## Notes
-  * Will use the SPARQLWrapper library to query DBPedia programmatically without the need to download it to our local system. ❎
-  * As DBPedia is not efficient for the filtering out useful information regarding a label that could help the model. Therefore we will be shifting to scaring the data off the net using Beautiful Soup. Incidecoder will be used for this. :white_check_mark:
     
 ## Dependencies
 #### 1) PyTorch
@@ -55,16 +43,18 @@ In this project, we present a novel approach for ingredient matching in cosmetic
   * Sephora Dataset 
         https://www.kaggle.com/datasets/raghadalharbi/all-products-available-on-sephora-website
 ## Files
-* BERT_Domain_Training.ipynb:
-* BERT_Classification_Task_Training.ipynb:
-* BERT_Task_Training.ipynb:
-* CheMapBERT.ipynb:
-* External_Knowledge_Retrieval.ipynb:
-* Label_Merging_591.xlsx:
+* BERT_Domain_Training.ipynb: Pretraining  of BERT using MLM
+* BERT_Classification_Task_Training.ipynb: Fine tuning of BERT Model after Weight Transfer from MLM BERT 
+* BERT_Task_Training.ipynb: Downstream Task Finetuning on MLM BERT (Not Recommended)
+* CheMapBERT.ipynb: Implementation of BERT fine tuning w/ External Knowledge 
+* External_Knowledge_Retrieval.ipynb: Contains code for external knowledge retrieval
+* Label_Merging_591.xlsx: Future Work Label Merging (Under Work)
 
 ## How to Run
-1)
-2)
+1) Download all the ipynb files from the Repository
+2) Download all the datasets using the links provided
+3) Run BERT_Domain_Training.ipynb for the pretraining and then store the weights (in the same folder)
+4) Run CheMapBERT/BERT_Classification_Task_Training files to fine tune the pretrained model on the downstream task with and without External Knowledge Incorporation
 
 ## Future Works:
 * Try to use other Faster models (less parameters) - such as DistilBERT and Larger Models - such as RoBERTa
