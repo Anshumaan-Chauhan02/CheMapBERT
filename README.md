@@ -4,6 +4,11 @@
   </p>
 </h2>
 
+<h4 align='center'> Project Description </h4> 
+In this research paper, we present a novel approach for ingredient matching in cosmetic products using a knowledge-infused language model. We will fine-tune a large language model that is pretrained on generic corpora in order to generate (or match) the label, i.e intended cosmetic use given a list of cosmetic ingredients. An additional step that we will do is to incorporate an external source of knowledge such as a \emph{Knowledge Graph} (KG) into the model. The idea of knowledge graph is that it will additionally explore and introduce the relations between any two entities, i.e cosmetic ingredients to the model. We show how introducing the KG can affect the performance of the model on this downstream task, quantitatively and qualitatively.
+<br>
+
+
 ## Tasks
   * Model Domain Training :white_check_mark: 
   * Model Task Specific Training :white_check_mark:
