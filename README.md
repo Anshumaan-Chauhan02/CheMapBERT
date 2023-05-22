@@ -32,8 +32,8 @@ In this project, we present a novel approach for ingredient matching in cosmetic
     
 ## Future Works:
 * Try to use other Faster models (less parameters) - such as DistilBERT and Larger Models - such as RoBERTa
-* Query to filter information into various types 
-* Introduce more datasets in fine-tuning
+* Query to filter information into various types: Filter down the information provided through external knowledge by using FAISS or ElasticSearch
+* Merging of Labels in order to have more samples for each class/ Introduce more datasets in fine-tuning
 
 <br><br><br>
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Anshumaan-Chauhan02)
