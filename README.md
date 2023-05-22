@@ -56,7 +56,7 @@ In this project, we present a novel approach for ingredient matching in cosmetic
         https://www.kaggle.com/datasets/raghadalharbi/all-products-available-on-sephora-website
 ## Files
 * BERT_Domain_Training.ipynb:
-* BERT_Task_Training - BERT Model WT.ipynb:
+* BERT_Classification_Task_Training.ipynb:
 * BERT_Task_Training.ipynb:
 * CheMapBERT.ipynb:
 * External_Knowledge_Retrieval.ipynb:
