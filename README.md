@@ -5,7 +5,7 @@
 </h2>
 
 <h4 align='center'> Project Description </h4> 
-In this project, we present a novel approach for ingredient matching in cosmetic products using a knowledge-infused language model. We will fine-tune a large language model that is pretrained on domain-specific corpora in order to generate (or match) the label, i.e intended cosmetic use given a list of cosmetic ingredients. An additional step that we will do is to incorporate an external source of knowledge such as a Knowledge Graph (KG)/list of possible matches into the model. We show how introducing the external knowledge can affect the performance of the model on this downstream task, quantitatively and qualitatively.
+In this project, we present a novel approach for ingredient matching in cosmetic products using a knowledge-infused language model. We fine-tuned a large language model that is pretrained on domain-specific corpora in order to generate (or match) the label, i.e intended cosmetic use given a list of cosmetic ingredients. An additional step that we did is to incorporate an external source of knowledge - list of possible matches into the model. We show how introducing the external knowledge can affect the performance of the model on this downstream task, quantitatively and qualitatively.
 <br>
 
 ### Technical Skills 
